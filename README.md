@@ -1,7 +1,6 @@
-Programación 2
-Entrega de trabajos prácticos
+<h1>Programación 2</h1>
+<h2>Entrega de trabajos prácticos</h2>
 
-Genaro Luna - Comisión 3
+<h3>Genaro Luna - Comisión 3</h3>
 
--En este repositorio se encuentran carpetas con las actividades de cada modulo de la materia Programación 2
--En ellas están los archivos que resuelven los problemas planteados en las actividades de cada módulo
+En este repositorio se encuentran carpetas con las actividades de cada modulo de la materia Programación 2
